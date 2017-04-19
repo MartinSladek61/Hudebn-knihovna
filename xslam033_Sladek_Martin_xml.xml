@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Sladek_Martin_xsl.xsl"?>
+<musicLibrary>
+  <!--Adele - Skyfall-->
+  <song id="1" format="mp3" sampling="44100 Hz">
+    <originalTitle>Skyfall</originalTitle>
+    <customTitle>Nebe</customTitle>
+    <artist nationality="UK">
+      <nameArtist>Adele</nameArtist>
+      <descriptionArtist>Adele Laurie Blue Adkins, MBE (* 5. května 1988 Londýn) je britská zpěvačka a skladatelka známá jen jako Adele. V roce 2008 převzala cenu BRIT Awards v kategorii Cena kritiků, která je udílená umělcům, kteří v té době ještě nevydali album.</descriptionArtist>
+    </artist>
+    <author nationality="UK">
+      <nameAuthor>Paul Epworth</nameAuthor>
+      <descriptionAuthor>Paul Epworth (* 25. července 1974 Londýn) je britský hudební producent a hudebník.</descriptionAuthor>
+    </author>
+    <album single="true" songOrder="0">
+      <albumName></albumName>
+      <albumCover>
+        <albumCoverUrl></albumCoverUrl>
+        <albumCoverTitle></albumCoverTitle>
+      </albumCover>
+      <albumPrice></albumPrice>
+      <purchaseUrl></purchaseUrl>
+      <numberOfAlbum></numberOfAlbum>
+      <albumReview>
+        <thumbsUp></thumbsUp>
+        <thumbsDown></thumbsDown>
+      </albumReview>
+    </album>
+    <releaseDate>
+      <date region="Worldwide">
+        <year>2012</year>
+        <month>Říjen</month>
+        <day>5</day>
+      </date>
+    </releaseDate>
+    <label>
+      <labelName>XL, Columbia</labelName>
+      <producer>Paul Epworth</producer>
+      <mixing>Abbey Road Studios</mixing>
+      <mastering>Abbey Road Studios</mastering>
+    </label>
+    <genres>
+      <genre No="1">Pop</genre>
+      <genre No="2">Soul</genre>
+      <genre No="3">Symfonický rock</genre>
+    </genres>
+    <lyrics>
+      <originalLyrics>
+        This is the end
+        Hold your breath and count to ten
+        Feel the earth move and then
+        Hear my heart burst again
+
+        For this is the end
+        I've drowned and dreamt this moment
+        So overdue, I owe them
+        Swept away I'm stolen
+
+        2x Let the skyfall
+        When it crumbles
+        We will stand tall
+        Face it all together
+
+        2x At Skyfall
+
+        Skyfall is where we start
+        A thousand miles and poles apart
+        Where worlds collide and days are dark
+        You may have my number
+        You can take my name
+        But you'll never have my heart
+
+        2x Let the sky fall
+        (Let the sky fall)
+        When it crumbles
+        (When it crumbles)
+        We will stand tall
+        (We will stand tall)
+        Face it all together
+
+        At Skyfall
+        2x (Let the sky fall)
+        (When it crumbles)
+        (We will stand tall)
+
+        Where you go I go
+        What you see I see
+        I know I'd never be me
+        without the security
+        Of your loving arms
+        Keeping me from harm
+        Put your hand in my hand
+        And we'll stand
+
+        2x Let the sky fall
+        (Let the sky fall)
+        When it crumbles
+        (When it crumbles)
+        We will stand tall
+        (We will stand tall)
+        Face it all together
+
+        At Skyfall
+        Let the sky fall
+        We will stand tall
+        At Skyfall
+        Oooooooh
+        uuuuuuu
+      </originalLyrics>
+      <lyricsAuthor>Paul Epworth</lyricsAuthor>
+      <language>ENG</language>
+      <lyricsTranslation language="CZ">
+        Tohle je konec
+        Zadrž svůj dech a počítej do deseti
+        Pociť pohyb země a pak
+        Slyš mé srdce opět vzplanout
+
+        Protože tohle je konec
+        Utopená sněla jsem o téhle chvíli
+        Tak opožděně, pořád jim dlužím
+        Smetena, jsem ukradena
+
+        2x Nech spadnout nebe
+        Když se hroutí
+        Budeme stát hrdě
+        Čelme tomu všemu společně
+
+        2x Na padající obloze
+
+        Padající obloha je, kde začínáme
+        Tisíc mil a pólů od sebe
+        Kde se světy sráží a dny jsou tmavé
+        Můžeš mít moje číslo
+        Můžeš si vzít moje jméno
+        Ale nikdy nebudeš mít moje srdce
+
+        2x Nech spadnout nebe
+        (Nech spadnout nebe)
+        Když se hroutí
+        (Když se hroutí)
+        Budeme stát hrdě
+        (Budeme stát hrdě)
+        Čelme tomu všemu společně
+
+        Na padající obloze
+        2x (Nech spadnout nebe)
+        (Když se hroutí)
+        (Budeme stát hrdě)
+
+        Kam jdeš ty, jdu já
+        Co vidíš ty, vidím já
+        Vím, že bych to nikdy nebyla já
+        bez ochrany
+        Tvých milujících paží
+        chráníc mne před zraněním
+        Dej svoji dlaň do mé dlaně
+        A budeme stát
+
+        2x Nech spadnout nebe
+        (Nech spadnout nebe)
+        Když se hroutí
+        (Když se hroutí)
+        Budeme stát hrdě
+        (Budeme stát hrdě)
+        Čelme tomu všemu společně
+
+        Na padající obloze
+        Nech spadnout nebe
+        Budeme stát hrdě
+        Na padající obloze
+        Oooooooh
+        uuuuuuu
+      </lyricsTranslation>
+    </lyrics>
+    <parentalAdvisory>false</parentalAdvisory>
+    <cover>
+      <coverUrl>http://www.007.com/wp-content/uploads/2012/07/skyfall_post-650.jpg</coverUrl>
+      <coverTitle>Skyfall_post-650.jpg</coverTitle>
+    </cover>
+    <lenght>4:49</lenght>
+    <rating>3,5</rating>
+    <played>12546</played>
+    <favorite>false</favorite>
+    <preferedEqualizerSetting>Pop music</preferedEqualizerSetting>
+    <playlists>
+      <playlist order="2">Top hity</playlist>
+      <playlist order="13">můj playlist</playlist>
+    </playlists>
+    <tags>
+      <tag No="1">Pop music</tag>
+      <tag No="2">Adele</tag>
+      <tag No="3">Skyfall</tag>
+      <tag No="4">Soul music</tag>
+      <tag No="5">film music</tag>
+    </tags>
+    <relatedArtists>
+      <relArt No="1">Beyoncé</relArt>
+      <relArt No="2">Katy Perry</relArt>
+      <relArt No="3">Sia</relArt>
+      <relArt No="4">Alicia Keys</relArt>
+    </relatedArtists>
+    <price currency="EUR">1,99</price>
+  </song>
+  <!--While She Sleeps - Four Walls-->
+  <song id="2" format="wav" sampling="96000 Hz">
+    <originalTitle>Four Walls</originalTitle>
+    <customTitle>Walls</customTitle>
+    <artist nationality="UK">
+      <nameArtist>While She Sleeps</nameArtist>
+      <descriptionArtist>While She Sleeps are an English metalcore band from Sheffield. Formed in 2006, the group consists of vocalist Lawrence Taylor, guitarists Sean Long and Mat Welsh, bassist Aaran McKenzie and drummer Adam Savage.</descriptionArtist>
+    </artist>
+    <author nationality="UK">
+      <nameAuthor>While She Sleeps</nameAuthor>
+      <descriptionAuthor>While She Sleeps are an English metalcore band from Sheffield. Formed in 2006, the group consists of vocalist Lawrence Taylor, guitarists Sean Long and Mat Welsh, bassist Aaran McKenzie and drummer Adam Savage.</descriptionAuthor>
+    </author>
+    <album single="false" songOrder="5">
+      <albumName>Brainwashed</albumName>
+      <albumCover>
+        <albumCoverUrl>https://upload.wikimedia.org/wikipedia/en/0/00/Brainwashed_cover_art.jpg</albumCoverUrl>
+        <albumCoverTitle>Brainwashed_cover_art.jpg</albumCoverTitle>
+      </albumCover>
+      <albumPrice currency="USD">5,99</albumPrice>
+      <purchaseUrl>https://www.amazon.co.uk/Brainwashed-While-She-Sleeps/dp/B00PC0TT2S</purchaseUrl>
+      <numberOfAlbum>Brainwashed</numberOfAlbum>
+      <albumReview>
+        <thumbsUp>159</thumbsUp>
+        <thumbsDown>6</thumbsDown>
+      </albumReview>
+    </album>
+    <releaseDate>
+      <date region="USA and UK">
+        <year>2015</year>
+        <month>March</month>
+        <day>23</day>
+      </date>
+      <date region="Rest of the world">
+        <year>2015</year>
+        <month>March</month>
+        <day>25</day>
+      </date>
+    </releaseDate>
+    <label>
+      <labelName>Sony Music, Search and Destroy</labelName>
+      <producer>Carl Brown</producer>
+      <mixing>Carl Brown</mixing>
+      <mastering>Sony Music</mastering>
+    </label>
+    <genres>
+      <genre No="1">MetalCore</genre>
+      <genre No="2">HardCore</genre>
+    </genres>
+    <lyrics>
+      <originalLyrics>
+        So when the saints go marching in
+        They won't be singing for your sins.
+        They just hope to hell
+        You've learnt something living and breathing.
+
+        Everybody dies with a debt,
+        No silence, watching death is how we live.
+        Take it or leave it,
+        Don't waste your breath.
+        I clear my mind, deny real life,
+        Define "here" without borders,
+        Possessions or enemies.
+
+        Everybody dies with a debt,
+        We all die for a life that we fear
+        We will only forget,
+        or confess to a God that we
+        know we only hear in ourselves.
+        Bottle it up,
+        Let your problems distill.
+        Forget your dreams or fulfill them.
+        Leave no trace, waste away.
+        It's time for change.
+
+        So when the saints go marching in
+        They won't be singing for your sins.
+        They just hope to hell
+        You've learnt something living and breathing.
+
+        Four walls in this prison,
+        but I can still see the river.
+        Four walls in this prison,
+        lies to poison your decisions in life, take note!
+        Don't ignore it, now you know.
+        I saved my soul.
+        I sold it to the open road.
+
+        I found hope in the wreckage of progress,
+        Trophies shattered and stained.
+        'Do what you're told',
+        There's a mold to be broken,
+        a light burning over your name.
+
+        And I saved my soul.
+        But I never said I wasn't the culprit,
+        Never said I wasn't deceived.
+        Just trying to rewrite the wrongs
+        That were written on me.
+
+        Everybody dies with a debt,
+        We all die for a life that we fear
+        We will only forget,
+        or confess to a God that we
+        know we only hear in ourselves.
+
+        So when the saints go marching in
+        They won't be singing for your sins.
+        They just hope to hell
+        You've learnt something living and breathing.
+      </originalLyrics>
+      <lyricsAuthor>While She Sleeps</lyricsAuthor>
+      <language>ENG</language>
+      <lyricsTranslation language="CZ">
+        Když jdou svatí pochodovat
+        Nebudou zpívat za tvé hříchy.
+        Oni jen doufají, že ses ksakru něco naučil
+        žijící a dýchající.
+
+        Každý umírá s dluhem,
+        Už žádné ticho, žijeme sledováním smrti
+        Ber nebo nech být
+        Neplýtvej svým dechem.
+        Vyčistím si mysl, popřením skutečného života
+        Definuj "tady" bez hranic,
+        majetku nebo nepřátel.
+
+        Každý umírá s dluhem,
+        Všichni zemřeme pro život ve strachu,
+        že jednou zapomeneme
+        nebo se přiznáme Bohu, že to víme,
+        a že to slyšíme jen sami v sobě.
+        Zašpuntuj to,
+        nech problémy vyšumět.
+        Zapomeň na své sny nebo si je splň.
+        Nezanechej stopy, prostě zmiz.
+        Je čas na změnu.
+
+        Když jdou svatí pochodovat
+        Nebudou zpívat za tvé hříchy.
+        Oni jen doufají, že ses ksakru něco naučil
+        žijící a dýchající
+
+        Čtyři zdi v tomhle vězení,
+        ale já stále vidím na řeku.
+        Čtyři zdi v tomhle vězení,
+        se rovnají jedu v tvých životních rozhodnutích, zapiš si to!
+        Nepřehlížej to, teď už víš.
+        Zachránil jsem svou duši.
+        Prodal jsem ji na otevřené silnici.
+
+        Našel jsem naději v troskách pokroku,
+        Trofeje roztříštěné a obarvené.
+        'Dělej, co máš'
+        Jsou tu pravidla, která se mají porušit,
+        a světlo zářící nad tvým jménem.
+
+        A já zachránil svou duši.
+        Ale nikdy jsem neřekl, že jsem nebyl viníkem,
+        Nikdy jsem neřekl, že jsem nebyl oklamán.
+        Jen se snažím přepsat chyby,
+        které se na mě podepsaly.
+
+        Každý umírá s dluhem,
+        Všichni zemřeme pro život ve strachu,
+        že jednou zapomeneme
+        nebo se přiznáme Bohu, že to víme,
+        a že to slyšíme jen sami v sobě
+
+        Když jdou svatí pochodovat
+        Nebudou zpívat za tvé hříchy.
+        Oni jen doufají, že ses ksakru něco naučil
+        žijící a dýchající.
+      </lyricsTranslation>
+    </lyrics>
+    <parentalAdvisory>true</parentalAdvisory>
+    <cover>
+      <coverUrl>http://68.media.tumblr.com/31ae1a88b8fd2a1cac6b18dd51c7d9b1/tumblr_nfm989l3NP1qegdqbo1_500.png</coverUrl>
+      <coverTitle>tumblr_nfm989l3NP1qegdqbo1_500.png</coverTitle>
+    </cover>
+    <lenght>5:07</lenght>
+    <rating>5</rating>
+    <played>5632</played>
+    <favorite>true</favorite>
+    <preferedEqualizerSetting>Metal music</preferedEqualizerSetting>
+    <playlists>
+      <playlist order="6">Top hity</playlist>
+      <playlist order="5">můj playlist</playlist>
+      <playlist order="12">Metalcore</playlist>
+    </playlists>
+    <tags>
+      <tag No="1">WSS</tag>
+      <tag No="2">Metalcore</tag>
+      <tag No="3">Core</tag>
+    </tags>
+    <relatedArtists>
+      <relArt No="1">Bury Tomorrow</relArt>
+      <relArt No="2">Architects</relArt>
+      <relArt No="3">Stick To Your Guns</relArt>
+    </relatedArtists>
+    <price currency="USD">0,99</price>
+  </song>
+  <!--The xx - Angels-->
+  <song id="3" format="mp3" sampling="44100 Hz">
+    <originalTitle>Angels</originalTitle>
+    <customTitle>Andílci</customTitle>
+    <artist nationality="UK">
+      <nameArtist>The xx</nameArtist>
+      <descriptionArtist>The xx is an English band formed in 2005 in Wandsworth, London. The group released their debut album, xx, in August 2009. The album was a commercial and critical success and was ranked highly on many best of 2009 lists, including number one on the list compiled by The Guardian and second for NME. In 2010, the band won the Mercury Prize for their debut album. Their second album, Coexist, was released on 10 September 2012 and peaked at number five on the Billboard 200. The band's third studio album, I See You, was released on 13 January 2017.</descriptionArtist>
+    </artist>
+    <author nationality="UK">
+      <nameAuthor>Romy Madley Croft, Oliver Sim, Jamie Smith</nameAuthor>
+      <descriptionAuthor>James Thomas "Jamie" Smith (born 28 October 1988), better known by his stage name Jamie xx, is an English record producer, remixer and DJ who is known both as a solo act and as a member of the London-based band The xx. He has been recognised with a 2016 Grammy Award nomination in the Best Dance/Electronic Album category for his album In Colour.</descriptionAuthor>
+    </author>
+    <album single="false" songOrder="1">
+      <albumName>Coexist</albumName>
+      <albumCover>
+        <albumCoverUrl>https://upload.wikimedia.org/wikipedia/en/d/d6/The_xx_-_Coexist.png</albumCoverUrl>
+        <albumCoverTitle>Coexist_albumcvr</albumCoverTitle>
+      </albumCover>
+      <albumPrice currency="GBP">10,49</albumPrice>
+      <purchaseUrl>https://www.amazon.co.uk/Coexist-XX/dp/B008B11R1Q</purchaseUrl>
+      <numberOfAlbum>2</numberOfAlbum>
+      <albumReview>
+        <thumbsUp>64</thumbsUp>
+        <thumbsDown>2</thumbsDown>
+      </albumReview>
+    </album>
+    <releaseDate>
+      <date region="USA and UK">
+        <year>2012</year>
+        <month>July</month>
+        <day>17</day>
+      </date>
+      <date region="Japan">
+        <year>2012</year>
+        <month>July</month>
+        <day>18</day>
+      </date>
+    </releaseDate>
+    <label>
+      <labelName>Young Turks</labelName>
+      <producer>Jamie xx</producer>
+      <mixing>Rodaidh McDonald</mixing>
+      <mastering>Mandy Parnell</mastering>
+    </label>
+    <genres>
+      <genre No="1">Indie Pop</genre>
+    </genres>
+    <lyrics>
+      <originalLyrics>
+        Light reflects from your shadow
+        It is more than i thought could exist
+        You move through the room
+        Like breathing was easy
+        If someone believed me
+
+        They would be
+        As in love with you as i am
+        They would be
+        As in love with you as i am
+        They would be
+        In love, love, love
+
+        And everyday
+        I am learning about you
+        The things that no one else sees
+        And the end comes too soon
+        Like dreaming of angels
+        And leaving without them
+        And leaving without them
+
+        Being
+        As in love with you as i am
+        Being
+        As in love with you as i am
+        Being
+        As in love, love, love
+
+        And with words unspoken
+        A silent devotion
+        I know you know what i mean
+        And the end is unknown
+        But i think i’m ready
+        As long as you’re with me
+
+        Being
+        As in love with you as i am
+        Being
+        As in love with you as i am
+        Being
+        As in love, love, love
+      </originalLyrics>
+      <lyricsAuthor>Romy Madley Croft</lyricsAuthor>
+      <language>ENG</language>
+      <lyricsTranslation language="CZ">
+        Světlo se odráží od tvého stínu
+        Je to víc než jsem si myslela, že může existovat
+        Procházíš se pokojem
+        Jako by dýchání bylo jednoduché
+        Kdyby mi někdo věřil
+
+        Byli by
+        Do tebe stejně zamilovaní, jako já
+        Byli by
+        Do tebe stejně zamilovaní, jako já,
+        Byli by
+        Zamilovaní, zamilovaní, zamilovaní.
+
+        A každý den
+        Se o tobě učím
+        Věci, které nikdo jiný nevidí.
+        A konec přichází příliš brzy
+        Jako snít o andělech
+        A odcházet bez nich
+        A odcházet bez nich.
+
+        Být
+        Do tebe zamilovaný tak, jako jsem já,
+        Být
+        Do tebe zamilovaný tak, jako jsem já
+        Být
+        Tak zamilovaný, zamilovaný, zamilovaný.
+
+        A s nevyslovenými slovy
+        tiché oddanosti
+        Já vím, že víš, co myslím
+        A konec je neznámý
+        Ale myslím, že jsem připravená
+        Dokud jsi se mnou
+
+        Být
+        Tak zamilovaný do Tebe jako jsem já,
+        Být
+        Tak zamilovaný do Tebe jako jsem já,
+        Být
+        Tak zamilovaný, zamilovaný, zamilovaný.
+      </lyricsTranslation>
+    </lyrics>
+    <parentalAdvisory>false</parentalAdvisory>
+    <cover>
+      <coverUrl>https://upload.wikimedia.org/wikipedia/en/3/3b/AngelsThexx.jpg</coverUrl>
+      <coverTitle>AngelsThexx.jpg</coverTitle>
+    </cover>
+    <lenght>2:51</lenght>
+    <rating>4,5</rating>
+    <played>7984</played>
+    <favorite>true</favorite>
+    <preferedEqualizerSetting>Indie music</preferedEqualizerSetting>
+    <playlists>
+      <playlist order="1">Top hity</playlist>
+    </playlists>
+    <tags>
+      <tag No="1">Pop music</tag>
+      <tag No="2">Indie music</tag>      
+    </tags>
+    <relatedArtists>
+      <relArt No="1">Foals</relArt>
+      <relArt No="2">Metronomy</relArt>
+      <relArt No="3">Warpaint</relArt>
+    </relatedArtists>
+    <price currency="GBP">0,99</price>
+  </song>
+  <!--DMX - X Gon' Give It To Ya-->
+  <song id="4" format="mpeg-1" sampling="44100 Hz">
+    <originalTitle>X Gon' Give It To Ya</originalTitle>
+    <customTitle>X</customTitle>
+    <artist nationality="USA">
+      <nameArtist>DMX</nameArtist>
+      <descriptionArtist>Earl Simmons (born December 18, 1970), professionally known as DMX, is an American rapper, record producer, and actor.</descriptionArtist>
+    </artist>
+    <author nationality="USA">
+      <nameAuthor>Earl Simmons, Shatek King, Kasseem Dean</nameAuthor>
+      <descriptionAuthor></descriptionAuthor>
+    </author>
+    <album single="false" songOrder="11">
+      <albumName>The Definition of X: The Pick of the Litter</albumName>
+      <albumCover>
+        <albumCoverUrl>https://upload.wikimedia.org/wikipedia/en/5/5f/Pickof_the_litter.jpg</albumCoverUrl>
+        <albumCoverTitle>Pickof_the_litter.jpg</albumCoverTitle>
+      </albumCover>
+      <albumPrice currency="USD">6,99</albumPrice>
+      <purchaseUrl>https://itunes.apple.com/ca/album/the-definition-of-x-pick-of-the-litter/id257691264</purchaseUrl>
+      <numberOfAlbum>7</numberOfAlbum>
+      <albumReview>
+        <thumbsUp>55</thumbsUp>
+        <thumbsDown>16</thumbsDown>
+      </albumReview>
+    </album>
+    <releaseDate>
+      <date region="USA">
+        <year>2003</year>
+        <month>January</month>
+        <day>20</day>
+      </date>
+    </releaseDate>
+    <label>
+      <labelName>Ruff Ryders, Def Jam</labelName>
+      <producer>Shatek</producer>
+      <mixing>Shatek</mixing>
+      <mastering>Shatek</mastering>
+    </label>
+    <genres>
+      <genre No="1">Gangsta rap</genre>
+      <genre No="2">Hardcore hip hop</genre>
+    </genres>
+    <lyrics>
+      <originalLyrics>
+        Arf arf
+        Yeah, yeah, yeah (Grrrr)
+        Uh, Yeah don't get it twisted
+        This rap shit, is mine
+        Motherfucker, it's not, a fucking, game
+        Fuck what you heard
+        It's what you hearin
+        It's what you hearin (Listen)
+        It's what you hearin (Listen)
+        It's what you hearin (Listen)
+
+        X gon give it to ya
+        Fuck wait for you to get it on your own
+        X gon deliver to ya
+        Knock knock, open up the door, it's real
+        Wit the non-stop, pop pop and stainless steel
+        Go hard gettin busy wit it
+        But I got such a good heart
+        I'll make a motherfucker wonder if he did it
+        Damn right and I'll do it again
+        Cuz I am right so I gots to win
+        Break bread wit the enemy
+        But no matter how many cats I break bread wit
+        I'll break who you sendin me
+        You motherfucker never wanted nothin
+        But your life said, that's for the light day
+        I'm gettin down, down
+        Make it say freeze
+        But won't be the one endin up on his knees (Whoo)
+        Please, If the only thing you cats did is come out to play
+        Stay out my way, motherfucker
+
+        First we gonna ROCK, Then we gonna ROLL
+        Then we let it POP, DON'T LET IT GO
+        X gon give it to ya
+        He gon give it to ya
+        X gon give it to ya
+        He gon give it to ya
+
+        Ain't never gave nothin to me
+        But everytime I turn around
+        Cats got they hands out wantin something from me
+        I ain't got it so you can't get it
+        Lets leave it at that cuz I ain't wit it
+        Hit it wit full strength
+        I'm a jail nigga
+        So I face the world like it's Earl in the bullpen
+        You against me, me against you
+        Whatever, whenever
+        What the fuck you gon do?
+        I'm a wolf in sheep clothing
+        Only nigga that you know that can chill
+        Come back and get the streets open
+        I've been doing this for nineteen years
+        Niggas wanna fight me? Fight these tears
+        I put in work and it's all for the kids
+        But these cats done forgot what work is (UH-HUH!)
+        They don't know who we be
+        Lookin! but they don't know who they see
+
+        First we gonna ROCK, Then we gonna ROLL
+        Then we let it POP, GO LET IT GO
+        X gon give it to ya
+        He gon give it to ya
+        X gon give it to ya
+        He gon give it to ya
+
+        Aiiyo where my niggaz at?!
+        I know I got them down in the game
+        Give em love and they give it back
+        Talk to much for to long
+        Don't give up your to strong (What?!)
+        A dog to bow bow hug it
+        Shoutout to niggaz that done it
+        And it ain't even about the dough
+        It's about gettin down for what you stand for yo
+
+        First we gonna ROCK, Then we gonna ROLL
+        Then we let it POP, GO LET IT GO
+        X gon give it to ya
+        He gon give it to ya
+        X gon give it to ya
+        He gon give it to ya
+      </originalLyrics>
+      <lyricsAuthor>DMX</lyricsAuthor>
+      <language>ENG</language>
+      <lyricsTranslation language="CZ">
+        Arf arf
+        Jo, jo, jo (Grrrr)
+        Uh, Jo, nepřekrucujte to
+        Do p*dele tenhle rap je můj
+        Zm*di, tohle není zas*aná hra
+        Se* na to co jsi slyšel
+        Je to, co slyšíš
+        Je to, co slyšíš (poslouchej)
+        Je to, co slyšíš (poslouchej)
+        Je to, co slyšíš (poslouchej)
+
+        X vám to nandá
+        Jeba* když ti to samému dojde
+        X ti to pronese
+        Klep klep, otevři dveře, tady je realita
+        S non-stop buchotem a nerezy
+        Jdi tvrdě, buď tím zaneprázdněn
+        Ale mám prostě dobré srdce
+        Přinutím je k žasnutí, či to udělal, zm*di
+        Sakra správně a udělám to znova
+        Protože mám pravdu, tak zvítězím
+        Zlom chleba s nepřáteli
+        Nezáleží s kolika kočkami lámu chleba
+        Zlomím kdo mi poslal __
+        Ty zm*de nikdy jsi nic nechtěl
+        Ale tvůj život řekl, je to pro tvé světlé dny
+        Dostávám se na dno, dno
+        Učiň to říci zamrzni
+        Ale nechci být ten, který skončí u jeho nohou
+        (Kdoo)
+        Prosím, pokud je jediné co jste vy, kočky, udělali je vyjít si zahrát
+        Drž se mimo mě, zm*de
+
+        Prvně jdeme ROCK, pak jdeme ROLL
+        Pak necháme POP, nenecháme toho
+        X vám to nandá
+        On vám to nandá
+        X vám to nandá
+        On vám to nandá
+
+        Nic si mi nedal
+        Ale pokaždé se otočím
+        Kočky mají nastrčené ruce, jako kdyby po mě něco chtěli
+        Nemám to, tak to nemůžeš dostat
+        Nech to tak jak je, protože nejsem s tím
+        Udeř to s plnou silou
+        Jsem žalářník ne*r
+        Potýkám se se světem jako Earl z Bullpenu
+        Ty proti mě, já proti tobě
+        Jakkoliv, kdekoliv
+        Co ku*va jdeš dělat?
+        Jsem vlk v ovčím oblečení
+        Pouze ne*r kterého znáš může ochladnout
+        Vrať se a obstarej ulici otevřenou
+        Dělal jsem to 19 let
+        Ne*ři chtějí se mnou bojovat? Boj s těmito slzami
+        Věnuji práci a to vše pro děti
+        Ale tyhle kočky zapomněly co to je práce (uh-huh!)
+        Neví kdo budou
+        Podívej! ale neví koho vidí
+
+        Prvně jdeme ROCK, pak jdeme ROLL
+        Pak necháme POP, nech to tak
+        X vám to nandá
+        On vám to nandá
+        X vám to nandá
+        On vám to nandá
+
+        Aiiyo kde jsou mí ne*ři ?
+        Vím, dostal jsem je v téhle hře na dno
+        Dej jim lásku a oni ti jí vrátí
+        Mluvím moc a dlouho
+        Nevzdávej se, se silný (Co?)
+        Dog se klaní klaní, obejmi to
+        Vykřiknu to ne*rům, kteří to udělali
+        Stejně to není jen o penězích
+        Je to o tom, že jsi šel ke dnu kvůli tomu, pro co jsi stál
+
+
+
+        Prvně jdeme ROCK, pak jdeme ROLL
+        Pak necháme POP, nech to tak
+        X vám to nandá
+        On vám to nandá
+        X vám to nandá
+        On vám to nandá
+      </lyricsTranslation>
+    </lyrics>
+    <parentalAdvisory>true</parentalAdvisory>
+    <cover>
+      <coverUrl>https://upload.wikimedia.org/wikipedia/en/2/2c/DMXGonGive.jpg</coverUrl>
+      <coverTitle>DMXGonGive.jpg</coverTitle>
+    </cover>
+    <lenght>3:40</lenght>
+    <rating>4,5</rating>
+    <played>11546</played>
+    <favorite>true</favorite>
+    <preferedEqualizerSetting>Hip Hop music</preferedEqualizerSetting>
+    <playlists>
+      <playlist order="4">Top hity</playlist>
+      <playlist order="5">můj playlist</playlist>
+      <playlist order="3">Hip Hop</playlist>
+    </playlists>
+    <tags>
+      <tag No="1">Rap music</tag>
+      <tag No="2">DMX</tag>
+      <tag No="3">X</tag>
+      <tag No="4">Gangsta music</tag>
+    </tags>
+    <relatedArtists>
+      <relArt No="1">Xzibit</relArt>
+      <relArt No="2">Busta Rhymes</relArt>
+      <relArt No="3">Mase</relArt>
+      <relArt No="4">G-Unit</relArt>
+    </relatedArtists>
+    <price currency="USD">1,29</price>
+  </song>
+  <!--Bedřich Smetana - Vltava-->
+  <song id="5" format="wav" sampling="96 kHz">
+    <originalTitle>Vltava</originalTitle>
+    <customTitle>Řeka</customTitle>
+    <artist nationality="CZ">
+      <nameArtist>Prague Symphony Orchestra FOK</nameArtist>
+      <descriptionArtist>Symfonický orchestr hl. m. Prahy FOK je oficiálním orchestrem hlavního města Prahy, který patří ke špičkovým českým hudebním tělesům. Založen byl roku 1934. Zkratka FOK symbolizuje původní zaměření orchestru (Film – Opera – Koncert). Orchestr sídlí a koncertuje v atraktivním prostoru Smetanovy síně Obecního domu, který je jednou z nejznámějších secesních staveb v Praze. V roce 2014 slavil orchestr již 80 let existence. Od sezóny 2015/2016 v jeho čele stojí finský dirigent Pietari Inkinen. Rezidenčním umělcem je José Cura a hlavním hostujícím dirigentem Jac van Steen.</descriptionArtist>
+    </artist>
+    <author nationality="CZ">
+      <nameAuthor>Bedřich Smetana</nameAuthor>
+      <descriptionAuthor>Bedřich Smetana (2. března 1824 Litomyšl[1] – 12. května 1884 Praha) byl významný český hudební skladatel období romantismu.</descriptionAuthor>
+    </author>
+    <album single="false" songOrder="2">
+      <albumName>Má vlast CD</albumName>
+      <albumCover>
+        <albumCoverUrl>http://data.bontonland.cz/fotky/87/p-28791-nahled.jpg</albumCoverUrl>
+        <albumCoverTitle>p-28791-nahled.jpg</albumCoverTitle>
+      </albumCover>
+      <albumPrice currency="CZK">229</albumPrice>
+      <purchaseUrl>http://www.bontonland.cz/smetana-bedrich-ma-vlast-6/?gclid=Cj0KEQjw8tbHBRC6rLS024qYjtEBEiQA7wIDefrPiLZA8kwh4YOVxXkbGAJJVjD-9TZR8E_2afRYirYaAtFT8P8HAQ</purchaseUrl>
+      <numberOfAlbum>1</numberOfAlbum>
+      <albumReview>
+        <thumbsUp>195</thumbsUp>
+        <thumbsDown>0</thumbsDown>
+      </albumReview>
+    </album>
+    <releaseDate>
+      <date region="CZ">
+        <year>2005</year>
+        <month>Leden</month>
+        <day>01</day>
+      </date>
+    </releaseDate>
+    <label>
+      <labelName>MusicVars</labelName>
+      <producer>MusicVars</producer>
+      <mixing>MusicVars</mixing>
+      <mastering>MusicVars</mastering>
+    </label>
+    <genres>
+      <genre No="1">Classical</genre>
+      <genre No="2">Classic music</genre>
+    </genres>
+    <lyrics>
+      <originalLyrics></originalLyrics>
+      <lyricsAuthor></lyricsAuthor>
+      <language></language>
+      <lyricsTranslation language="CZ">   </lyricsTranslation>
+    </lyrics>
+    <parentalAdvisory>false</parentalAdvisory>
+    <cover>
+      <coverUrl>https://upload.wikimedia.org/wikipedia/commons/d/da/Smetana_-_Vltava_autograf.jpg</coverUrl>
+      <coverTitle>Smetana_-_Vltava_autograf.jpg</coverTitle>
+    </cover>
+    <lenght>11:45</lenght>
+    <rating>5</rating>
+    <played>8219</played>
+    <favorite>true</favorite>
+    <preferedEqualizerSetting>Classic music</preferedEqualizerSetting>
+    <playlists>
+      <playlist order="12">Top hity</playlist>
+      <playlist order="2">můj playlist</playlist>
+      <playlist order="9">Klasika</playlist>
+      <playlist order="3">Chill and relax</playlist>
+    </playlists>
+    <tags>
+      <tag No="1">Smetana</tag>
+      <tag No="2">Vltava</tag>
+      <tag No="3">Má vlast</tag>
+      <tag No="4">Classical</tag>
+    </tags>
+    <relatedArtists>
+      <relArt No="1">Antonín Dvořák</relArt>
+      <relArt No="2">Robert Schumann</relArt>
+      <relArt No="3">Hector Berlioz</relArt>
+      <relArt No="4">Ludwig van Beethoven</relArt>
+    </relatedArtists>
+    <price currency="CZK">39</price>
+  </song>
+</musicLibrary>

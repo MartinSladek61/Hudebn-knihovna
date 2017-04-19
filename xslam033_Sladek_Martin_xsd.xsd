@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <!--Definování elementů a atributů-->
+  <xs:element name="musicLibrary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="song">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="originalTitle" type="xs:string" />
+              <xs:element name="customTitle" type="xs:string" />
+              <xs:element name="artist">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="nameArtist" type="xs:string" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="descriptionArtist" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                  <xs:attribute name="nationality" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="author">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="nameAuthor" type="xs:string" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="descriptionAuthor" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                  <xs:attribute name="nationality" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <!--Není vždy známé, proto minOccurs="0"-->
+              <xs:element name="album" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="albumName" type="xs:string" minOccurs="0" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="albumCover" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <!--Není vždy známé, proto minOccurs="0"-->
+                          <xs:element name="albumCoverUrl" type="xs:string" minOccurs="0" />
+                          <!--Není vždy známé, proto minOccurs="0"-->
+                          <xs:element name="albumCoverTitle" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="albumPrice" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="currency" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="purchaseUrl" type="xs:string" minOccurs="0" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="numberOfAlbum" type="xs:string" minOccurs="0" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="albumReview" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <!--Není vždy známé, proto minOccurs="0"-->
+                          <xs:element name="thumbsUp" type="xs:string" minOccurs="0"/>
+                          <!--Není vždy známé, proto minOccurs="0"-->
+                          <xs:element name="thumbsDown" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="single" type="xs:boolean" use="required" />
+                  <xs:attribute name="songOrder" type="xs:unsignedByte" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <!--Není vždy známé, proto minOccurs="0"-->
+              <xs:element name="releaseDate" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element maxOccurs="unbounded" name="date" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <!--Není vždy známé, proto minOccurs="0"-->
+                          <xs:element name="year" type="xs:unsignedShort" minOccurs="0" />
+                          <!--Není vždy známé, proto minOccurs="0"-->
+                          <xs:element name="month" type="xs:string" minOccurs="0" />
+                          <!--Není vždy známé, proto minOccurs="0"-->
+                          <xs:element name="day" type="xs:unsignedByte" minOccurs="0" />
+                        </xs:sequence>
+                        <xs:attribute name="region" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="label">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="labelName" type="xs:string" />
+                    <xs:element name="producer" type="xs:string" />
+                    <xs:element name="mixing" type="xs:string" />
+                    <xs:element name="mastering" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="genres">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="genre">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="No" type="xs:unsignedByte" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <!--Není vždy známé, proto minOccurs="0"-->
+              <xs:element name="lyrics" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="originalLyrics" type="xs:string" minOccurs="0" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="lyricsAuthor" type="xs:string" minOccurs="0" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="language" type="xs:string" minOccurs="0" />
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element name="lyricsTranslation" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="language" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="parentalAdvisory" type="xs:boolean" />
+              <xs:element name="cover">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="coverUrl" type="xs:string" />
+                    <xs:element name="coverTitle" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="lenght" type="xs:string" />
+              <xs:element name="rating" type="xs:string" />
+              <xs:element name="played" type="xs:unsignedShort" />
+              <xs:element name="favorite" type="xs:boolean" />
+              <xs:element name="preferedEqualizerSetting" type="xs:string" />
+              <!--Není vždy známé, proto minOccurs="0"-->
+              <xs:element name="playlists" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <!--Není vždy známé, proto minOccurs="0"-->
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="playlist">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="order" type="xs:unsignedByte" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="tags">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="tag">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="No" type="xs:unsignedByte" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="relatedArtists">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="relArt">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="No" type="xs:unsignedByte" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="price">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="currency" type="xs:string" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:unsignedByte" use="required" />
+            <xs:attribute name="format" type="xs:string" use="required" />
+            <xs:attribute name="sampling" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
